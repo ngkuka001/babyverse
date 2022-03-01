@@ -2566,3 +2566,34 @@
   /* backdrop-filter: blur(3px); */
   /* -webkit-backdrop-filter: blur(10px); */
 } /* End custom CSS */
+
+/* custom */
+.img-coming-soon {
+  display: flex;
+  width: 100%;
+}
+
+.img-coming-soon img {
+  max-width: 70%;
+  margin: auto;
+}
+
+.feature-items {
+  padding-bottom: 80px;
+}
+
+section.elementor-section {
+  padding: 20px 0;
+}
+
+/* .bkg-img-overlay {
+  background-image: url("../../2022/01/finalfinal_upiqkumater.png");
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+} */
+
+@media (max-width: 768px) {
+}
